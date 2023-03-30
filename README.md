@@ -3,6 +3,5 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulofranklins2)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulofranklins2&show_icons=true)
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulofranklins2&exclude_repo=github-readme-stats,paulofranklins2.github.io)](https://github.com/anuraghazra/github-readme-stats)
-  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulofranklins2)](https://github.com/paulofranklins2/github-readme-stats)
   
