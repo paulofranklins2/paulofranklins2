@@ -3,10 +3,10 @@
 ```yaml
 role: Software Engineer
 education:
-  - degree: B.S. in Computer Science
-    gpa: 3.95
   - degree: B.S. in Software Engineering
     gpa: 3.97
+  - degree: B.S. in Computer Science
+    gpa: 3.95
   - degree: B.S. in Electrical Engineering
     gpa: 3.92
 location: California, USA
