@@ -15,10 +15,13 @@ education:
     gpa: 3.92
 
 experience:
-  - role: Full-Stack Software Engineer
-    company: Bright Invest BV
   - role: Backend Software Engineer
     company: LinkedIn
+  - role: Full-Stack Software Engineer
+    company: Bright Invest BV
+  - role: Game Developer
+    company: Mythocron Gaming Network
+    focus: Classic MMORPG servers & clients across 10+ titles | C++ | C# | NestJS | React
 
 skills:
   languages: Java | TypeScript | Python | C++ | C# | SQL
