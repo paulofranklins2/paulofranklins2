@@ -15,6 +15,8 @@ education:
     gpa: 3.92
 
 experience:
+  - role: Full-Stack Software Engineer
+    company: Bright Invest BV
   - role: Backend Software Engineer
     company: LinkedIn
 
